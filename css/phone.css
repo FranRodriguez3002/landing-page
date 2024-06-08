@@ -1,0 +1,33 @@
+nav ul {
+    display: flex;
+    list-style: none;
+    gap: 30px;
+    padding-bottom: 10px;
+}
+
+.hero {
+    padding: 155px 0;
+}
+
+.hero p {
+    display: none;
+}
+
+.hero .imagenes {
+    display: none;
+
+}
+
+
+.products h2 {
+    padding-bottom: 30px;
+}
+.products p {
+    display: none;
+}
+.product-grid {
+    display: flx;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+}
